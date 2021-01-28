@@ -32,8 +32,8 @@ const HomePage = ({ allSounds }) => {
 
   return (
     <Layout
-      title="Relax with sounds."
-      description="SoundsMix. Mix sounds and create the perfect combination to relax, study or work."
+      title="RelaxSound"
+      description="Mix sounds and create the perfect combination to relax, study or work."
     >
       <SoundsGrid>
         {allItems.map((elem, index) => {

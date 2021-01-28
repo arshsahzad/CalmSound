@@ -6,8 +6,8 @@ const Footer = () => {
   return (
     <footer className={styles.footer}>
       Built by{" "}
-      <a href="https://github.com/Mulder90" target="_blank" rel="noopener">
-        Lorenzo Cinque
+      <a href="https://arsh.link/arshdev" target="_blank" rel="noopener">
+        Arsh Sahzad
       </a>
     </footer>
   );

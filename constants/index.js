@@ -1,8 +1,8 @@
 const AD_UNIT_WIDTH = 300;
 const AD_UNIT_HEIGHT = 250;
-const AD_UNIT_ID = "6488417658";
-const ADSENSE_CLIENT_ID = "ca-pub-9563162482219213";
-const GA_TRACKING_ID = "UA-165329818-1";
+const AD_UNIT_ID = "";
+const ADSENSE_CLIENT_ID = "";
+const GA_TRACKING_ID = "";
 
 export {
   AD_UNIT_WIDTH,

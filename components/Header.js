@@ -9,8 +9,8 @@ const Header = ({ title, description }) => {
       <NextSeo title={title} description={description} />
       <header className={styles.header}>
         <div className={styles.titleWrapper}>
-          <h1>SoundsMix</h1>
-          <img src="/images/blender.svg" width="50" alt="Mixer" />
+          <h1>RelaxSound</h1>
+          <img src="/images/favicon.ico" width="50" alt="" />
         </div>
         <h2>
           Mix sounds and create the perfect combination to relax, study or work.
